@@ -30,7 +30,7 @@ class HomeComponent {
     }
 }
 HomeComponent.ɵfac = function HomeComponent_Factory(t) { return new (t || HomeComponent)(); };
-HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 1, vars: 0, consts: [["src", "https://storage.googleapis.com/duckr-b8e76.appspot.com/resized/yjQsZaWeB-181dccb97177925f5145d75eeade0cbfdd32cb9430c61e146aa6f446cfeb6892_1664x936.png", 2, "width", "1350px"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
+HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 1, vars: 0, consts: [["src", "https://storage.googleapis.com/duckr-b8e76.appspot.com/resized/yjQsZaWeB-181dccb97177925f5145d75eeade0cbfdd32cb9430c61e146aa6f446cfeb6892_1664x936.png", 1, "img-fluid", 2, "width", "auto"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "img", 0);
     } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJob21lLmNvbXBvbmVudC5jc3MifQ== */"] });
 
